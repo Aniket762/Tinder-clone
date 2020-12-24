@@ -9,8 +9,8 @@ function TinderCards() {
         url:"https://aniket.live/img/aniket.jpeg"
     },
     {
-        name:"Sumana Basu",
-        url:"https://sumana.live/img/sumana.jpeg"
+        name:"Cristiano Ronaldo",
+        url:"https://i.guim.co.uk/img/media/6322b56e3c850027facfb00dd8178376b38900ed/0_182_5472_3283/master/5472.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a3d60cc79f9ede018ec20e4d979eb5dd"
     },
 ]);
 
